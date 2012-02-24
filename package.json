@@ -1,0 +1,18 @@
+{
+  "author": "Andre Tangen @gmail <jornandretangen@gmail.com>",
+  "name": "manaslu",
+  "description": "Basecamp nodejs api/sdk",
+  "version": "0.0.01",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.10"
+  },
+  "dependencies": {
+    "request": "2.9.100",
+    "xml2js": "0.1.13"
+  },
+  "devDependencies": {}
+}
